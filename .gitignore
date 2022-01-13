@@ -32,5 +32,4 @@
 *.app
 
 cmake-build-debug
-.gitignore
 .idea
